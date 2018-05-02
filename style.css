@@ -1,0 +1,14 @@
+.body {
+	background-color: black;
+}
+
+.card-placeholder {
+	background: red;
+}
+
+.board {
+	width: 100%;
+	text-align: center;
+	background: lightblue;
+	display: inline-block;
+}
